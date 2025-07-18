@@ -1,4 +1,4 @@
-# 📁 File Organizer App
+# 📁 NeatDesk
 
 **A smart, GUI-based desktop application built in Python that automatically organizes messy folders by file type — even within subfolders and large datasets.**
 
