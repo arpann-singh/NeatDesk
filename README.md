@@ -1,3 +1,4 @@
+![NeatDesk](https://github.com/user-attachments/assets/98fbae13-19ad-4dfb-af2c-895606ffaee5)
 # 📁 NeatDesk
 
 **A smart, GUI-based desktop application built in Python that automatically organizes messy folders by file type — even within subfolders and large datasets.**
