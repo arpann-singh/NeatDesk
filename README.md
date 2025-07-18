@@ -90,7 +90,7 @@ FileOrganizerApp/
 
 ## 👨‍💻 Developer
 
-Made with ❤️ by **Candy (Arpan Singh)**  
+Made with ❤️ by **Arpan Singh**  
 🔗 GitHub: [@arpann-singh](https://github.com/arpann-singh)
 
 ---
